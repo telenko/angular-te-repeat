@@ -1,0 +1,15 @@
+{
+  "name": "angular-te-repeat",
+  "description": "fast repeat angular alternative",
+  "main": "webpack.config.js",
+  "authors": [
+    "Andrey Telenko (Nikolaev)"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/telenko/angular-te-repeat",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
+}
